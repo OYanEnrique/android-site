@@ -106,4 +106,4 @@ Este projeto foi desenvolvido para fins educacionais durante o curso de HTML5 e 
 
 ---
 
-⭐ Desenvolvido com dedicação durante o Curso em Vídeo | [YouTube](https://www.youtube.com/@CursoemVideo)
+⭐ Desenvolvido com dedicação durante o Curso em Vídeo | [YouTube](https://youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ/CursoemV%C3%ADdeo?si=9VFZ6noBvOmSrSOh)
